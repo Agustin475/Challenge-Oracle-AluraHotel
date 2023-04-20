@@ -27,12 +27,20 @@ Desarrollo de una BD relacional para almacenamiento de Húespedes, Reservas y Us
 Tencnologías utilizadas:
 
 Java SE10
+
 Maven
+
 JDBC
+
 MySql
+
 Biblioteca JCalendar
+
 Plugin WindowBuilder
+
 Eclipse
+
+
 
 Librerías 📖:
 
@@ -48,9 +56,9 @@ Librerías 📖:
 
 Usuario login:
 
-User:Admin
+User: Admin
 
-Pass:Admin
+Pass: Admin
 
 
 
