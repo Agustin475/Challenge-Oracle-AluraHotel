@@ -87,6 +87,6 @@ Autor: Agustin Sanchez
 [![3.jpg](https://i.postimg.cc/yYCKnfdK/3.jpg)](https://postimg.cc/XXLtYkd1)
 [![4.jpg](https://i.postimg.cc/bwYKF4f7/4.jpg)](https://postimg.cc/pp7GmGTC)
 [![5.jpg](https://i.postimg.cc/TPpBTmwQ/5.jpg)](https://postimg.cc/8FgZH7Lr)
-[![6.jpg](https://i.postimg.cc/JnXgkLjk/6.jpg)](https://postimg.cc/TLRQzB7d)
+[![1.jpg](https://i.postimg.cc/QCrsjrnS/1.jpg)](https://postimg.cc/R6G2T2mn)
 
 
