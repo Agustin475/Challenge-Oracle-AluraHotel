@@ -75,9 +75,11 @@ Valores Ingresados de las Costos de reserva de habitacion referencia al Peso Arg
 
 Si te gusto marca este proyecto con una ⭐
 
-Autor: Agustin Sanchez
-<li>Si tienes alguna duda puedes contactarme aquí: <a href="https://www.linkedin.com/in/agustin-sanchez/">LinkedIn</a></li><br>
+Autor:
 
+🧡 <strong>Agustin Sanchez</strong></br>
+<a href="https://www.linkedin.com/in/agustin-sanchez/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
